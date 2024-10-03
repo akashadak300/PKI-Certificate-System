@@ -1,0 +1,13 @@
+Issuer Name: IIITA
+Subject ID: user@example.com
+Validity:
+  NotBefore: Mon, 01 Jan 2024
+  NotAfter: Wed, 01 Jan 2025
+Signature Algorithm: DSA
+Subject PublicKey: (RSA) MIGdMA0GCSqGSIb3DQEBAQUAA4GLADCBhwKBgQDJhwb+8PVZlj87nlaqMSiBfoE0i1tR1Jc7
+HB8U0nEZQbB97/vnH4E9DAAzo8G6XMtNAwMTik/mcLcAHMgYogGU5OzyxjGF7SEoQTBw6hNO
+oZ9QmRoWieFHAZZ88aFQR9KGVQYz1vQRvm3oj5QL0Qr4rQL+Pt3zMqTV5RkNj3gMMwIBEQ==
+
+Signature: FpqwtNobRc7p56zYrggCbhjQjknFCmfaJZYb3q0ovjw4+x9NarVNwc/WzWBgiF+kJW6hrTzA
+iTk=
+
